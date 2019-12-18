@@ -43,7 +43,6 @@ body {
 }
 .banner {
   position: relative;
-  overflow: hidden;
 }
 
 .banner__video {
